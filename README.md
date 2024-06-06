@@ -46,3 +46,9 @@
 ## Listar contas
 
 - Deve mostrar as informações de todas as contas feitas
+
+#Desafio 2
+
+Fazer a mesmo coisa, porém utilizando classes, metodos e outras ferramentas
+
+esse esta listando no arquivo desafio_2
